@@ -53,9 +53,3 @@
 - Email: <kkjjrr0504@gmail.com>
 - Instagram: [@rimm._.54](https://instagram.com/rimm._.54)
   
-
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ri-mmu&show_icons=true&locale=en&layout=compact" alt="ri-mmu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ri-mmu&show_icons=true&locale=en" alt="ri-mmu" /></p>
